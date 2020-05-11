@@ -6,6 +6,8 @@ from scrapy.crawler import CrawlerProcess
 import datetime
 from scrapy_splash import SplashRequest
 
+
+
 __author__ = "Fynn Dierksen"
 __email__ = "mail@fynn-dierksen.de"
 __created__ = "06.05.2020"
